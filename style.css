@@ -1,6 +1,7 @@
 body {
   font-family: 'Raleway', sans-serif;
   text-align: center;
+  margin: 5px;
 }
 
 img {
@@ -8,6 +9,7 @@ img {
   margin: 0 auto;
   display: block;
   margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 #coming-soon {
@@ -22,8 +24,16 @@ img {
   font-size: 20px;
 }
 
+#scatter {
+  max-width: 25%;
+}
+
 @media only screen and (max-width: 600px) {
   #coming-soon h1 {
     font-size: 12px;
+  }
+
+  #sampler {
+    width: 100%;
   }
 }
