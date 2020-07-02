@@ -4,7 +4,7 @@ body {
 }
 
 img {
-  width: 85%;
+  width: 65%;
   margin: 0 auto;
   display: block;
   margin-top: 100px;
@@ -12,6 +12,8 @@ img {
 
 #coming-soon {
   padding: 20px 0;
-  margin-top: 100px;
-  color: slateblue;
+  margin: 100px 0;
+  color: rgb(56, 38, 89);
+  letter-spacing: 0.05em;
+  word-spacing: 0.1em;
 }
