@@ -49,4 +49,16 @@ img {
   #sampler {
     width: 100%;
   }
+
+  #everything-alright {
+    padding: 20px 0;
+    margin: 100px auto;
+    display: block;
+    width: 90%;
+    color: rgb(78, 64, 104);
+    letter-spacing: 0.05em;
+    word-spacing: 0.1em;
+    text-align: left;
+    font-size: 12px;
+  }
 }
