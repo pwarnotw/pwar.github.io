@@ -4,6 +4,10 @@ body {
   margin: 5px;
 }
 
+a {
+  color: rgb(78, 64, 104);
+}
+
 h1 {
   font-size: 20px;
 }
@@ -39,6 +43,12 @@ img {
 #scatter {
   max-width: 15%;
   max-height: 30%;
+  margin: 100px auto;
+}
+
+#song-credit {
+  font-weight: 100;
+  font-size: 8px;
 }
 
 @media only screen and (max-width: 600px) {
