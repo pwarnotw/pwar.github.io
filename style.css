@@ -4,6 +4,10 @@ body {
   margin: 5px;
 }
 
+h1 {
+  font-size: 20px;
+}
+
 img {
   width: 65%;
   margin: 0 auto;
@@ -20,8 +24,16 @@ img {
   word-spacing: 0.1em;
 }
 
-#coming-soon h1 {
-  font-size: 20px;
+#everything-alright {
+  padding: 20px 0;
+  margin: 100px auto;
+  display: block;
+  width: 50%;
+  color: rgb(78, 64, 104);
+  letter-spacing: 0.05em;
+  word-spacing: 0.1em;
+  text-align: left;
+  font-size: 12px;
 }
 
 #scatter {
