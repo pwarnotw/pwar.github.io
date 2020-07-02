@@ -19,5 +19,11 @@ img {
 }
 
 #coming-soon h1 {
-  font-size: small;
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  #coming-soon h1 {
+    font-size: 12px;
+  }
 }
