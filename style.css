@@ -13,7 +13,11 @@ img {
 #coming-soon {
   padding: 20px 0;
   margin: 100px 0;
-  color: rgb(56, 38, 89);
+  color: rgb(78, 64, 104);
   letter-spacing: 0.05em;
   word-spacing: 0.1em;
+}
+
+#coming-soon h1 {
+  font-size: small;
 }
